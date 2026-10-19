@@ -4,7 +4,7 @@ Release feed for the Slipstream desktop app (Windows; Slipstream is a codename).
 the [Velopack](https://velopack.io) release assets that CI publishes: `Setup.exe`, the portable zip,
 `.nupkg` update packages, and `releases.{stable,dev}.json`. There is no source code here.
 
-- **Install:** download `Slipstream-stable-Setup.exe` (or `Slipstream.Dev-dev-Setup.exe` for dev builds)
+- **Install:** download `Slipstream.Desktop-stable-Setup.exe` (or `Slipstream.Desktop.Dev-dev-Setup.exe` for dev builds)
   from [Releases](../../releases).
 - **Updates:** the installed app checks this feed and updates itself.
 
